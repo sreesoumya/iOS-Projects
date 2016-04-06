@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>India</key>
+	<array>
+		<string>Avakaya</string>
+		<string>Pesarattu</string>
+		<string>Thukpa</string>
+		<string>Thali</string>
+		<string>Litti Chokha</string>
+		<string>Maple</string>
+		<string>Palak Paneer</string>
+		<string>Rajma Shawl</string>
+		<string>Vindaloo</string>
+		<string>Khaman</string>
+		<string>Handva</string>
+		<string>Bisi bele bath</string>
+		<string>Pav Bhaji</string>
+		<string>Eromba</string>
+		<string>Chungdi Joda</string>
+	</array>
+	<key>USA</key>
+	<array>
+		<string>Hot Dog</string>
+		<string>Pizza</string>
+		<string>Hamburger</string>
+		<string>ClamChowder</string>
+		<string>Succotash</string>
+		<string>Fried  Chicken</string>
+		<string>Gumbo</string>
+		<string>Grits</string>
+		<string>Chitterlings</string>
+		<string>Hushpuppies</string>
+		<string>Cobbler</string>
+	</array>
+	<key>Mexico</key>
+	<array>
+		<string>Taco</string>
+		<string>Quesadilla</string>
+		<string>Pambazo</string>
+		<string>Tamal</string>
+		<string>Huaranche</string>
+		<string>Alambre</string>
+		<string>Enchilada</string>
+		<string>Panita</string>
+		<string>Gordita</string>
+		<string>Tlayuda</string>
+		<string>Sincronizada</string>
+	</array>
+</dict>
+</plist>
